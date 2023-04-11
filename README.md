@@ -6,10 +6,10 @@ Software engineer/developer
 
 I have been learning software engineering for two years now after switching career as a quality control analyst. I have accurate knowledge in the use of programming languages like C , Python, Javascript, Custom CSS, DJANGO, VUE and HTML
 
-* 🌍  I'm based in Dublin Ireland
+* 🌍  I'm based in Enugu Nigeria
 * ✉️  You can contact me at [ogwaluchidozie@gmail.com](mailto:ogwaluchidozie@gmail.com)
-* 🧠  I'm learning Back-End engineering
-* 🤝  I'm open to collaborating on Frontend or backend
+* 🧠  I'm a MERN stack Engineer
+* 🤝  I'm open to collaborating on  backend
 
 ### Skills
 
