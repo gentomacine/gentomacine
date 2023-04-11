@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chidozie Ogwalu
 =======================================================================================================================================
 
-Software engineer/developer
+Backend engineer/developer
 ---------------------------
 
-I have been learning software engineering for two years now after switching career as a quality control analyst. I have accurate knowledge in the use of programming languages like C , Python, Javascript, Custom CSS, DJANGO, VUE and HTML
+I have been learning software engineering for two years now after switching career as a quality control analyst. I have accurate knowledge in the use of programming languages like C , Python, Javascript, Custom CSS, VUE, React,MongoDB, Postgres, Express,Nodejs, Nest, MySql, Bash/Shell Scripting, Git  and Typescript
 
 * 🌍  I'm based in Enugu Nigeria
 * ✉️  You can contact me at [ogwaluchidozie@gmail.com](mailto:ogwaluchidozie@gmail.com)
-* 🧠  I'm a MERN stack Engineer
-* 🤝  I'm open to collaborating on  backend
+* 🧠  I'm a Backend engineer
+* 🤝  I'm open to collaborating on Backend
 
 ### Skills
 
